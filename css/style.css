@@ -1,0 +1,298 @@
+
+  .main {
+    background-color: #0072bc;
+  }
+
+  .text {
+    font-size: larger;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+   
+  }
+
+  .icon {
+    margin-left: 150px;
+    color: white;
+  }
+
+  .header {
+    color: aliceblue;
+  }
+
+  .header-2 {
+    background-color: white;
+
+  }
+
+
+
+  .logo {
+    margin-left: 100px;
+  }
+
+  .fa-facebook-f {
+    color: white;
+  }
+
+  .fa-twitter {
+    color: white;
+  }
+
+  .fa-instagram {
+    color: white;
+  }
+
+  .fa-linkedin {
+    color: white;
+  }
+
+  .fa-youtube {
+    color: white;
+  }
+
+  .fa-twitter {
+    color: white;
+  }
+
+  .fa-dribbble {
+    color: white;
+  }
+
+  .btn-1 {
+    margin-left: 180px;
+  }
+
+  .card-title {
+    margin-left: 100px;
+    padding-top: 25px;
+  }
+
+  .icon a{
+    margin-left:10px;
+  }
+  .developing{
+    margin-left:170px;
+  }
+  .parent{
+    background-color: #0072bc;
+    color:#fff;
+    border-radius: 40px;
+  }
+  .parent:hover{
+    background-color:#fff;
+    color:#0072bc;
+  }
+.parentone{
+    border-radius:40px;
+
+}
+.card-title{
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.hdr{
+  color: white;
+  margin-left :20px;
+
+}
+.bi bi-envelope-at{
+color:white;
+
+}
+
+.navbar-nav {
+  color:black;
+  margin-left: 50px;
+  padding-left:20px;
+  font-size: medium;
+  
+}
+
+.container-fluid{
+
+  padding: 5px;
+
+}
+
+
+.marquee{
+
+  text-decoration: none;
+  margin-bottom: 50px;
+  color: #fff;
+
+}
+.ride {
+  background-color: #0072bc;
+  color: #fff;
+  padding: 4px;
+  border-bottom-right-radius: 13px;
+  
+}
+.color{
+  background-color:  #d25115;
+  border-bottom-left-radius: 13px;
+  padding: 4px;
+}
+
+.col-sm-2 h3{
+  color: #fff;
+
+}
+
+.fight h4{
+color: #0072bc;
+
+}
+
+.fight{
+padding-top: 65px;
+text-align: center;
+padding-right: 50px;
+padding-left: 50px;
+}
+.biton{
+  padding-top: 50px;
+  padding-right: 60px;
+
+}
+
+
+.button-2{
+  float:left;
+
+}
+ .two{
+  color:#fff;
+  border-radius: 40px;
+
+ }
+.container-fluid-2{
+float:right;
+
+
+}
+
+.display {
+  padding-top:500px;
+  
+
+}
+
+
+.setting{
+    padding:20px 0px 0px 30px;
+    padding: 40px;
+    
+}
+.second{
+background-color: #142141;
+color: #fff;
+
+
+
+}
+.two{
+  margin-bottom: 10px;
+
+
+}
+.setting p {
+  padding-top: 10px;
+
+}
+.single{
+  background-color:#EF820D;
+border-radius: 40px;
+}
+
+.double{
+  background-color:#EF820D;
+  border-radius: 40px;
+
+}
+.pictures{
+padding-top: 70px;
+
+
+
+}
+.card-title{
+margin-right: 60px;
+}
+
+.ritin p{
+
+padding-top: 30px;
+
+}
+.flex{
+  background-color: #142141;
+  padding-bottom:100px;
+  padding-top:20px;
+
+}
+.frame-one{
+padding-left: 62px;
+border-radius: 2px solid white;
+
+}
+
+.frame-three{
+  padding-right: 110px;
+
+}
+.frame-two{
+  padding-left: 10px;
+
+}
+.zblack{
+margin-left:560px;
+border-radius: 48px;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+  }
+
+  .card-body{
+    padding-left: 20px;
+  }
+
+  .kjl{
+    padding-left: 50px;
+  }
+  .cric{
+    padding-left: 40px;
+  }
+  .basic {
+padding-top:30px;
+background-color:#17a2b8;
+
+  }
+  .fifty{
+
+    background-color: #142141;
+  }
+  .card-body-one{
+    background-color: #142141;
+    text-decoration: none;
+   
+
+  }
+  .card-text-one{
+color:#fff;
+
+  }
+  .hanu{
+
+    padding-left: 60px;
+    padding-top: 60px;
+   
+  }
+.ram{
+
+  padding-top: 60px; 
+}
